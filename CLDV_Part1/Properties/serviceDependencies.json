@@ -3,6 +3,9 @@
     "mssql1": {
       "type": "mssql",
       "connectionId": "ConnectionStrings:CLDV_Part1Context"
+    },
+    "secrets1": {
+      "type": "secrets"
     }
   }
 }
